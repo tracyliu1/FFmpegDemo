@@ -10,15 +10,15 @@ cmake_minimum_required(VERSION 3.4.1)
 # You can define multiple libraries, and CMake builds them for you.
 # Gradle automatically packages shared libraries with your APK.
 
-#set(CURRENT_DIR ${PROJECT_SOURCE_DIR})
-set(CURRENT_DIR "/Users/tracyliu/GitHub/FFmpegDemo/app")
+set(CURRENT_DIR ${CMAKE_SOURCE_DIR}/../../../)
+#set(CURRENT_DIR "/Users/tracyliu/GitHub/FFmpegDemo/app")
 #/Users/tracyliu/Desktop/MutipleMedia/TesJNI/app/src/main/cpp
 
 
 
 #在Gradle Console输出信息
 #CMAKE_SOURCE_DIR: E:/MyApplication2/app
-message("CURRENT_DIR:" ${PROJECT_SOURCE_DIR})
+message("CURRENT_DIR:" CURRENT_DIR)
 #PROJECT_SOURCE_DIR
 
 add_library( # Sets the name of the library.
