@@ -1,0 +1,2 @@
+CURRENT_DIR:CURRENT_DIR
+Configuring done

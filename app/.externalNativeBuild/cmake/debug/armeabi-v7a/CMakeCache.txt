@@ -216,9 +216,6 @@ Project_BINARY_DIR:STATIC=/Users/tracyliu/GitHub/FFmpegDemo/app/.externalNativeB
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/Users/tracyliu/GitHub/FFmpegDemo/app/src/main/cpp
 
-//Dependencies for the target
-native-lib_LIB_DEPENDS:STATIC=general;avcodec;general;avformat;general;avfilter;general;avutil;general;swresample;general;swscale;
-
 
 ########################
 # INTERNAL cache entries

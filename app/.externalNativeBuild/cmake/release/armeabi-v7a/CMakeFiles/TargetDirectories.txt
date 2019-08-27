@@ -1,0 +1,3 @@
+/Users/tracyliu/GitHub/FFmpegDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/tracyliu/GitHub/FFmpegDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/tracyliu/GitHub/FFmpegDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir

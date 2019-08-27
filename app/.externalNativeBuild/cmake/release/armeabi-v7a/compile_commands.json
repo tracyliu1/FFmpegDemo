@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/tracyliu/GitHub/FFmpegDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "/Users/tracyliu/android-ndk-r17c/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/tracyliu/android-ndk-r17c/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/tracyliu/android-ndk-r17c/sysroot  -Dnative_lib_EXPORTS -I/Users/tracyliu/GitHub/FFmpegDemo/app/src/main/cpp/../../../src/main/cpp/include -isystem /Users/tracyliu/android-ndk-r17c/sources/cxx-stl/llvm-libc++/include -isystem /Users/tracyliu/android-ndk-r17c/sources/android/support/include -isystem /Users/tracyliu/android-ndk-r17c/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/tracyliu/android-ndk-r17c/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -Os -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/tracyliu/GitHub/FFmpegDemo/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/tracyliu/GitHub/FFmpegDemo/app/src/main/cpp/native-lib.cpp"
+}
+]
